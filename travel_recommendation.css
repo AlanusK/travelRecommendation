@@ -82,4 +82,17 @@ nav h1 {
     width: 100vw;
     height: calc(100vh - 50px);
     background-image: url("background.jpg");
+    background-color: blue;
+    color: white;
+}
+
+.home h1 {
+    font-size:xxx-large;
+    font-weight:bolder;
+}
+
+#section-one {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
 }
